@@ -4,7 +4,8 @@
 	<title>Membuat Login Dengan PHP dan MySQLi </title>
 </head>
 <body>
-	<h2>Username : </h2>
+	<h2>Username : arga </h2>
+	<h2>Password : kopassus1234 </h2>
 	<br/>
 	<!-- cek pesan notifikasi -->
 	<?php
